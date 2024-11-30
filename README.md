@@ -1,2 +1,2 @@
-# All-About-Node  (Note : it is still incomplete i will in few days...)
+# All-About-Node 
 its is a Node Learn Blog
